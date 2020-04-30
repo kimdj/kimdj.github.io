@@ -9,3 +9,8 @@
 * {
     font-family: ColabLig !important;
 }
+
+#david-kim-img {
+    max-height: 350px;
+    max-width: 350px;
+}
