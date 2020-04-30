@@ -1,11 +1,11 @@
 @font-face {
-    font-family: Komikax;
-    src: url('/KOMIKAX_.ttf');
+    font-family: ColabLig;
+    src: url('/ColabLig.otf');
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
 * {
-    font-family: Komikax !important;
+    font-family: ColabLig !important;
 }
