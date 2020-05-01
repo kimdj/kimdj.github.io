@@ -62,7 +62,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-    #contact {
+    #contact-form {
         padding: 0;
         margin: 0;
     }
